@@ -60,7 +60,7 @@ export default function Contact() {
 
             <div className="flex gap-6">
               {[
-                { icon: <Github size={24} />, href: 'https://github.com/yendurimukesh' },
+                { icon: <Github size={24} />, href: 'https://github.com/ymukeshram' },
                 { icon: <Linkedin size={24} />, href: 'https://linkedin.com/in/mukesh-yenduri' },
                 { icon: <Mail size={24} />, href: 'mailto:Ymukeshram@gmail.com' }
               ].map((social, i) => (

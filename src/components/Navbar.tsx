@@ -42,7 +42,7 @@ export default function Navbar() {
         </div>
 
         <div className="hidden md:flex items-center gap-4">
-          <a href="https://github.com/yendurimukesh" target="_blank" className="text-white/70 hover:text-neon-blue transition-colors">
+          <a href="https://github.com/ymukeshram" target="_blank" className="text-white/70 hover:text-neon-blue transition-colors">
             <Github size={20} />
           </a>
           <a href="https://linkedin.com/in/mukesh-yenduri" target="_blank" className="text-white/70 hover:text-neon-blue transition-colors">
