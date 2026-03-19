@@ -100,6 +100,7 @@ Deployed Through Vercel
 ---
 
 ## Project Structure
+```
 src/
 ├── components/
 │ ├── Navbar.tsx
@@ -115,7 +116,7 @@ src/
 ├── App.tsx
 ├── main.tsx
 └── index.css
-
+```
 ## Highlights
 
  Modern 3D portfolio design
